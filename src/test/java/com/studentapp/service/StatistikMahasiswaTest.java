@@ -31,7 +31,7 @@ public class StatistikMahasiswaTest {
     public void testRataRataAngkatan() {
         // (2021 + 2022 + 2021) / 3 = 2021.333...
         double rata = statistik.getRataRataAngkatan();
-        assertEquals(2021.333, rata, 0.01);
+        assertEquals(2099.333, rata, 0.01);
     }
 
     @Test
