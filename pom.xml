@@ -21,8 +21,8 @@
         <!-- GANTI dua baris ini dengan milik kelompok kalian        -->
         <!-- Lihat di dashboard SonarCloud project setelah import    -->
         <!-- ====================================================== -->
-        <sonar.organization>GANTI-DENGAN-ORG-SONARCLOUD-KALIAN</sonar.organization>
-        <sonar.projectKey>GANTI-DENGAN-PROJECT-KEY-KALIAN</sonar.projectKey>
+        <sonar.organization>kemasfaris69</sonar.organization>
+        <sonar.projectKey>KemasFaris69_TugasBesarMKEPL</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <!-- Lokasi laporan coverage JaCoCo yang dibaca SonarCloud -->
